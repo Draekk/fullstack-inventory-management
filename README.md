@@ -1,8 +1,8 @@
-# Sistema de Control de Inventario 📦
+# Sistema de Control de Inventario
 
 Este es un proyecto fullstack que permite gestionar el inventario y las ventas de una tienda. Incluye una aplicación **backend con Node.js y MySQL** y un **frontend moderno construido con Vite + React + TailwindCSS**. Diseñado como una solución local, esta app permite agregar productos, controlar stock y simular ventas de manera rápida y sencilla.
 
-## 🧠 Contenido
+## Contenido
 
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
@@ -12,7 +12,7 @@ Este es un proyecto fullstack que permite gestionar el inventario y las ventas d
 - [Repositorios Originales](#repositorios-originales)
 - [Licencia](#licencia)
 
-## 🚀 Características
+## Características
 
 - **Gestión de Productos:** Crear, editar y eliminar productos del inventario.
 - **Registro de Ventas:** Gestiona y registra las ventas.
@@ -20,7 +20,7 @@ Este es un proyecto fullstack que permite gestionar el inventario y las ventas d
 - **Persistencia con MySQL:** Los datos se guardan en una base de datos relacional.
 - **Estado local de ventas:** Se utiliza `localStorage` para guardar temporalmente los datos de venta.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Backend:
 - **Node.js**
@@ -34,7 +34,7 @@ Este es un proyecto fullstack que permite gestionar el inventario y las ventas d
 - **TailwindCSS**
 - **JavaScript**
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 fullstack-inventory-management/
@@ -43,7 +43,7 @@ fullstack-inventory-management/
 └── README.md       # Este archivo
 ```
 
-## ⚙️ Instalación
+## Instalación
 
 1. **Clonar el repositorio unificado**:
 
@@ -80,20 +80,20 @@ npm install
 npm run dev
 ```
 
-## 🧪 Uso
+## Uso
 
-1. Asegúrate de tener tu base de datos MySQL corriendo 💾.
+1. Asegúrate de tener tu base de datos MySQL corriendo.
 2. Inicia primero el backend (`localhost:3000` por defecto).
 3. Luego, inicia el frontend (`localhost:5173` por defecto con Vite).
-4. Abre el navegador en `http://localhost:5173` y comienza a usar la app 🎉.
+4. Abre el navegador en `http://localhost:5173` y comienza a usar la app.
 
-## 🔗 Repositorios Originales
+## Repositorios Originales
 
 Este repositorio unificado fue creado para fines de portafolio. El desarrollo inicial del proyecto fue dividido en dos repositorios independientes:
 
-- 🔙 **Backend original:** [inventory-management-system](https://github.com/Draekk/inventory-management-system)
-- 🎨 **Frontend original:** [ims-front-test](https://github.com/Draekk/ims-front-test)
+- **Backend original:** [inventory-management-system](https://github.com/Draekk/inventory-management-system)
+- **Frontend original:** [ims-front-test](https://github.com/Draekk/ims-front-test)
 
-## 📝 Licencia
+## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
